@@ -33,15 +33,15 @@ Panel de administración web para taller de reparación de teléfonos. Gestiona 
 
 ## Backend
 
-Consume la API REST de [serverDawa](https://github.com/Mickaell22/serverDawa) — Node.js + Express + Prisma.
+Consume la API REST de [TallerMoviles_API](https://github.com/Mickaell22/TallerMoviles_API) — Node.js + Express + Prisma.
 
 ---
 
 ## Correr localmente
 
 ```bash
-git clone https://github.com/Mickaell22/proyecto-dawa-1.git
-cd proyecto-dawa-1
+git clone https://github.com/Mickaell22/TallerMoviles_Frontend.git
+cd TallerMoviles_Frontend
 npm install
 npm start
 ```
